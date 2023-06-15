@@ -5,4 +5,4 @@ permalink: /fun/
 author_profile: true
 ---
 # When it all started...
-![Playing Chess](/images/1_me&setup.jpg){: .align-center height="100px"}
+![Playing Chess](/images/1_meandsetup.jpg){: .align-center}
