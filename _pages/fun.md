@@ -26,7 +26,7 @@ My goal: participating in barista/latte art competitions this year in Germany.
 ![Playing Chess](/images/2_chess.jpg){: .align-right width="300px"}
 Now, this is somethig that keeps me awake at nights, it is stronger than my coffee and still is challenging for me but I 
 do enjoy it so much! I'm a member of World Chess Club Berlin and it's my go-to place/bar during the days that I'm an extrovert! 
-IYKYK, there is always new strategies to learn or practice the ones you already know and it's not enough! So, if you never tried 
+I have a custom made chess board out of walnut wood and it truly inspires me to play chess with a friend! IYKYK, there is always new strategies to learn or practice the ones you already know and it's not enough! So, if you never tried 
 it either don't or if you do, keep this in mind that once you begin there's no going back! You're welcome.
 
 My goal: have a proper Blitz ranking this year so that I can share it here.
