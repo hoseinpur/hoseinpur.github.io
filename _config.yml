@@ -85,8 +85,8 @@ author:
   bio              : "iOS/ML Developer"
   location         : "Cottbus, Germany"
   employer         : "Brandenburg University of Technology"
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : # ""
+  googlescholar    : # ""
   email            : "s.hoseinpur@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
