@@ -1,2 +1,6 @@
-# Playing Chess
-![Playing Chess](/images/chess.jpg){: .align-right width="300px"}
+---
+layout: archive
+title: "Fun stuff"
+permalink: /fun/
+author_profile: true
+---
