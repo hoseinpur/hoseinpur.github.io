@@ -4,17 +4,18 @@ main:
     # url: /cv/
     url: /files/SomayeHoseinpur_Resume.pdf
 
-  - title: "Cool Stuff"
-    url: /portfolio/
-
   -  title: "Publications"
      url: /publications/
+
+
+#  - title: "portfolio"
+#    url: /portfolio/
 
   - # title: "Talks"
     # url: /talks/
 
-  - # title: "Teaching"
-    # url: /teaching/
+  -  title: "Teaching"
+     url: /teaching/
 
         
   - # title: "Blog Posts"
