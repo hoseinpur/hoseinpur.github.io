@@ -44,7 +44,7 @@ My dream was having my own camera and be a photographer! I achieved this dream d
 main focus! The only reason is my passion for outer space, I wanted to see and explore through
 the camera viewfinder. Now I own two cameras, Nikon D5300 with 18-140mm Nikkor for Astrophotography and Landscape, and Olympus Pen for Portrait and Street photography.
 
-My goal: owning a Leica Q2 for B/W photography and QHY268M camera with Planewave CDK12.5 astrograph on an Astro-Physics 1100 GTO mount for capturing galaxies. (is this so much to ask?!)
+My goal: owning a Leica Q2 for B/W photography and QHY268M camera with Planewave CDK12.5 astrograph on an Astro-Physics 1100 GTO mount.
 
 ## Keyboard collection
 ![Playing Chess](/images/5_keyboard.jpg){: .align-right width="300px"}
