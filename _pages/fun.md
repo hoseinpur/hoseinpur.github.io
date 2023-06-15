@@ -53,3 +53,5 @@ Imagine you type, and type, code, and code but your wrists are never tired :) Fo
 keyboards that I have, Azio Retro and Qwerkywriter Retro. However, for speed typing I use Keychron K2 which has red switches.
 
 My goal: building my first custom mechanical keyboard from the scratch. 
+
+# Gallery
