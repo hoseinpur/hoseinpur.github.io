@@ -7,6 +7,8 @@ main:
   -  title: "Publications"
      url: /publications/
 
+  -  title: "Fun Stuff"
+     url: /fun/
 
 #  - title: "portfolio"
 #    url: /portfolio/
@@ -14,8 +16,7 @@ main:
   - # title: "Talks"
     # url: /talks/
 
-  -  title: "Teaching"
-     url: /teaching/
+
 
         
   - # title: "Blog Posts"
