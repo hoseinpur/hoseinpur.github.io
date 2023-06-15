@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Hobbies "
+title: "Hobbies that I really enjoy doing whenever I have me-only time!"
 permalink: /fun/
 author_profile: true
 ---
-# Playing Chess
-![Playing Chess](/images/chess.jpg){: .align-right width="300px"}
+# When it all started...
+![Playing Chess](/images/1_me&setup.jpg){: .align-center }
