@@ -40,9 +40,8 @@ My goal: have a proper Blitz ranking this year so that I can share it here.
 ![Playing Chess](/images/4_fullmoon.JPG){: .align-right width="300px"}
 It all started with our family 35mm film camera!
 I was so curious and always watched my brother while using it. I naturally learned how to use the camera and change the films.
-My dream was having my own camera and be a photographer! I achieved this dream during my bachelors and I chose Astrophotography as my
-main focus! The only reason is my passion for outer space, I wanted to see and explore through
-the camera viewfinder. Now I own two cameras, Nikon D5300 with 18-140mm Nikkor for Astrophotography and Landscape, and Olympus Pen for Portrait and Street photography.
+My dream was having my own camera and be a photographer! I chose Astrophotography as my main focus because of my passion for outer space, I wanted to see and explore through
+the camera viewfinder. Now I own two cameras, Nikon D5300 with 18-140mm Nikkor for Astrophotography, and Olympus Pen for Portrait photography.
 
 My goal: owning a Leica Q2 for B/W photography and QHY268M camera with Planewave CDK12.5 astrograph on an Astro-Physics 1100 GTO mount.
 
