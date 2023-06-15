@@ -47,3 +47,10 @@ the camera viewfinder. Now I own two cameras, Nikon D5300 with 18-140mm Nikkor f
 My goal: owning a Leica Q2 for B/W photography and QHY268M camera with Planewave CDK12.5 astrograph on an Astro-Physics 1100 GTO mount for capturing galaxies. (is this so much to ask?!)
 
 ## Keyboard collection
+![Playing Chess](/images/5_keyboard.jpg){: .align-right width="300px"}
+Can we even say this is a hobby?! I don't know, I just know that I a "Keyboard" enthusiast and collector. I blame it on Typewriters! why they are so beautiful 
+and unique and aesthetic that made me wanna own mechanical keyboards! anyway, I have three distinctive keyboards that changed the game for me!
+Imagine you type, and type, code, and code but your wrists are never tired :) For chill and slow days, I use either one of two mechanical
+keyboards that I have, Azio Retro and Qwerkywriter Retro. However, for speed typing I use Keychron K2 which has red switches.
+
+My goal: building my first custom mechanical keyboard from the scratch. 
