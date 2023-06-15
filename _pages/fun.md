@@ -19,6 +19,10 @@ it either don't or if you do, keep this in mind that once you begin there's no g
 
 My goal: have a proper Blitz ranking this year so that I can share it here.
 
+
+
+
+
 ## Coffee but aesthetically pleasing
 ![Playing Chess](/images/3_meandcoffee.jpg){: .align-left width="300px"}
 Now, y'll remember pandemic days right?! During quarantine that we all were stuck at home, I did a thing! Depression 
