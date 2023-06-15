@@ -14,15 +14,11 @@ I'm a final year graduate student at BTU, studying Cyber Security program. My re
 
 
 ## Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the "Trace Oddity: Methodologies for Data-Driven Traffic Analysis on Tor" paper and reproduced the original results by running and tracking experiments.
-
-To accompany this work, I will submit a blog post.
-
-currently I am also working on the similar paper.
+I have experience with independent research. I have implemented the "Trace Oddity: Methodologies for Data-Driven Traffic Analysis on Tor" paper and reproduced the original results by running and tracking experiments. To accompany this work, I will submit a blog post. currently I am working on similar papers. 
 
 ## Professional Experience
 Additionally, I have professional experience working as Student Researcher (HiWi) at the Technical University of Kaiserslautern. 
-There I worked on different projects.
+There I worked on different projects. Check out my CV for a detailed descriptions.
 
 ## Teaching and Community Contributions
 To further contribute to the Machine Learning and Cyber Security community, I have a YouTube channel and Instagram page where I publish educational content.
