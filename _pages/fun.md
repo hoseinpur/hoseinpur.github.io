@@ -20,6 +20,7 @@ it either don't or if you do, keep this in mind that once you begin there's no g
 My goal: have a proper Blitz ranking this year so that I can share it here.
 
 ## Coffee but aesthetically pleasing
+![Playing Chess](/images/3_meandcoffee.jpg){: .align-left width="300px"}
 Now, y'll remember pandemic days right?! During quarantine that we all were stuck at home, I did a thing! Depression 
 was hitting so hard and I had to make a decision! Yes, the only way to get out of all those drama was to spend money! yes we 
 all became materialist during that time, I was also no exception! I decided to order a semi-professional espresso machine and start
