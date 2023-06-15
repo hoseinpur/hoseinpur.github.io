@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year graduate student at BTU, studying Cyber Security program. My research interests are in traffic analysis in Tor network, Attack analysis in Federated Learning, and bridging vision and language modalities and Self-Supervised Learning! I am also interested in assisting others on their path in the world of Machine Learning and academia. Look at the [Cool Stuff](https://hoseinpur.github.io/fun/) for the fun part!
+I'm a final year graduate student at BTU, studying Cyber Security program. My research interests are in traffic analysis in Tor network, Attack analysis in Federated Learning, and bridging vision and language modalities and Self-Supervised Learning! I am also interested in assisting others on their path in the world of Machine Learning and academia. Look at the [Fun stuff](https://hoseinpur.github.io/fun/) for the fun part!
 
 # Selected Experiences 
 
