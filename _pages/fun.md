@@ -12,9 +12,10 @@ just fine now but that's not enough. So to do great, here are the things that bo
 
 ## Playing Chess
 ![Playing Chess](/images/2_chess.jpg){: .align-left width="300px"}
-Now this is somethig that keeps me awake at nights, it is stronger than my coffee and still is challenging for me! IYKYK, there is 
-always new strategies to learn or practice the ones you know and it's not enough! So, if you never tried it either don't or if you do, 
-keep this in mind that once you begin there's no going back! You're welcome.
+Now this is somethig that keeps me awake at nights, it is stronger than my coffee and still is challenging for me but I 
+do enjoy it so much! I'm a member of World Chess Club Berlin and it's my go-to place/bar during the days that I'm an extrovert! 
+IYKYK, there is always new strategies to learn or practice the ones you know and it's not enough! So, if you never tried 
+it either don't or if you do, keep this in mind that once you begin there's no going back! You're welcome.
 
 
 
