@@ -38,7 +38,7 @@ My goal: have a proper Blitz ranking this year so that I can share it here.
 
 ## Astrophotography
 ![Playing Chess](/images/4_fullmoon.JPG){: .align-right width="300px"}
-Photographying is probably my oldest skill that I have learned in my life! It all started with our family 35mm film camera!
+It all started with our family 35mm film camera!
 I was so curious and always watched my brother while using it. I naturally learned how to use the camera and change the films.
 My dream was having my own camera and be a photographer! I achieved this dream during my bachelors and I chose Astrophotography as my
 main focus! The only reason is my passion for outer space, I wanted to see and explore through
