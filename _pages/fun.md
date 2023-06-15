@@ -14,10 +14,10 @@ just fine now but that's not enough. So to do great, here are the things that bo
 
 ## Coffee but aesthetically pleasing
 ![Playing Chess](/images/3_meandcoffee.jpg){: .align-right width="300px"}
-Now, y'll remember pandemic days right?! During quarantine that we all were stuck at home, I did a thing! Depression 
-was hitting so hard and I had to make a decision! Yes, the only way to get out of all those drama was to spend money! yes we 
-all became materialist during that time, I was also no exception! I decided to order a semi-professional espresso machine and start
-to learn how to make a proper coffee!! and I succeed! Not only that I can make freshly brewed coffee, but I also can pour different
+Now, y'all remember pandemic days right?! During quarantine that we all were stuck at home, I did a thing! Depression 
+was hitting so hard and I had to make a decision! The only way to get out of all those drama was to spend money! yes we 
+all became materialist during that time, and I was also no exception! I decided to order a semi-professional espresso machine and start
+to learn how to make a proper coffee!! and I succeed! Not only that I can make freshly brewed coffee, but I can also pour different
 latte art designs! I learned all the skills related to coffee-making and now I can officially call myself a Home-Barista! 
 
 My goal: participating in barista/latte art competitions this year in Germany.
